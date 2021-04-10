@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">SeeMoviE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="usuarioet">Genero:</string>
+    <string name="et_fecha">Año de pelicula</string>
+    <string name="et_agregar">Agregar</string>
+    <string name="et_usuario">Email</string>
+    <string name="buttonlogin">Iniciar Sesion</string>
+    <string name="et_password">Contraseña</string>
+    <string name="ButtonLogin">Registrar</string>
+    <string name="textviewlogin">¿No tienes sesion?Registrate</string>
+    <string name="et_name">Usuario</string>
+    <string name="et_email">Email</string>
+    <string name="et_cont">Contraseña</string>
+    <string name="et_confirmar">Confirmar Contraseña</string>
+    <string name="buttonsignup">Registrar</string>
+    <string name="buttonsignuoatras">Atras</string>
+    <string name="textsigup">REGISTRO DE USUARIOS</string>
+    <string name="textview">Inicio</string>
+    <string name="textview1">Pelicula recomendada</string>
+    <string name="Button">Peliculas</string>
+    <string name="Button1">Historial</string>
+    <string name="Button2">Recomendada</string>
+    <string name="Button3">Perfil</string>
+    <string name="Button4">Como Funciona</string>
+    <string name="item">Ingles</string>
+    <string name="item2">Español</string>
+
+</resources>

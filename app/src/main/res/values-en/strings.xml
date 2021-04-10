@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="et_usuario">Email</string>
+    <string name="buttonlogin">Login</string>
+    <string name="et_password">Password</string>
+    <string name="ButtonLogin">SignUp</string>
+    <string name="textviewlogin">Dont have a session? SignUp</string>
+    <string name="et_name">User</string>
+    <string name="et_email">Email</string>
+    <string name="et_cont">Password</string>
+    <string name="et_confirmar">Confirm Password</string>
+    <string name="buttonsignup">SignUp</string>
+    <string name="buttonsignuoatras">Behind</string>
+    <string name="textsigup">USER REGISTRATION</string>
+    <string name="textview">Start</string>
+    <string name="textview1">Recommended movie</string>
+    <string name="Button">Movie</string>
+    <string name="Button1">Record</string>
+    <string name="Button2">Recommended</string>
+    <string name="Button3">Profile</string>
+    <string name="Button4">How Does It Work</string>
+    <string name="usuarioet">Genero:</string>
+    <string name="et_fecha">Año de pelicula</string>
+    <string name="et_agregar">Agregar</string>
+    <string name="item">English</string>
+    <string name="item2">Spanish</string>
+</resources>

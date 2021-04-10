@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194574883508",
+    "firebase_url": "https://seemovie-4b14b.firebaseio.com",
+    "project_id": "seemovie-4b14b",
+    "storage_bucket": "seemovie-4b14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194574883508:android:bd4e49fc6b4b1ec58c95e1",
+        "android_client_info": {
+          "package_name": "com.example.seemovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194574883508-bm5qagtr82sntr6pk73hqr7aietmf9hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seemovie",
+            "certificate_hash": "001d6fc08c0c36d08aa27e7379ed6d6898a3ced1"
+          }
+        },
+        {
+          "client_id": "194574883508-i4ss6klroofoqijf12n4vsbnsn31ode5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqhUQRIeJ57y-gZNDAJ_GkGwOtrrSWaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194574883508-i4ss6klroofoqijf12n4vsbnsn31ode5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
